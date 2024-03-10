@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SearchProgamModul3.Shared.Models.Word
+namespace SearchProgamModul3.Shared.Models
 {
     public class Word
     {

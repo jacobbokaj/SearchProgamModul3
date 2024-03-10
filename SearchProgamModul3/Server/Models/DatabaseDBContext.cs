@@ -3,6 +3,7 @@ using SearchProgamModul3.Client.Search;
 using SearchProgamModul3.Server.SearchMehanics;
 using SearchProgamModul3.Shared;
 using SearchProgamModul3.Shared.Models;
+using SearchProgamModul3.Shared.Models.Word;
 
 namespace SearchProgamModul3.Server.Models
 {

@@ -13,7 +13,7 @@ namespace SearchProgamModul3.Shared.Models
 
         public WordWithFrequrency()
         {
-            
+
         }
 
         public WordWithFrequrency(Word word, int frequncy)

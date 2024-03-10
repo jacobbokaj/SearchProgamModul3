@@ -1,6 +1,4 @@
-﻿using SearchProgamModul3.Shared.Models;
-
-namespace SearchProgamModul3.Client.Search
+﻿namespace SearchProgamModul3.Shared.Models
 {
     public class DocumentHit
     {

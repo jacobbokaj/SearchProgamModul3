@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SearchProgamModul3.Client.Search;
 using SearchProgamModul3.Server.Models;
+using SearchProgamModul3.Shared.Models;
 using System.Reflection;
 
 namespace SearchProgamModul3.Server.SearchMehanics

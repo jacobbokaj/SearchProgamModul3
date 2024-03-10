@@ -1,4 +1,4 @@
-﻿using SearchProgamModul3.Shared.Models.Document;
+﻿using SearchProgamModul3.Shared.Models;
 
 namespace SearchProgamModul3.Client.Search
 {
