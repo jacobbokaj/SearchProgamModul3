@@ -17,7 +17,7 @@ namespace SearchProgamModul3.Server.Models
         /// <returns></returns>
         List<Word> GetAllWordsWithCondition(int flag);
 
-        Word GetWord(int id);
+        Word GetWordById(int id);
 
         List<BEDocument> GetDocDetails(List<int> docIds);
         List<int> getMissing(int docId, List<int> wordIds);

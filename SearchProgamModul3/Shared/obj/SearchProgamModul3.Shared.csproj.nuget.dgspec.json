@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\source\\repos\\SearchProgamModul3\\SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj": {}
+    "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\source\\repos\\SearchProgamModul3\\SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj": {
+    "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\SearchProgamModul3\\SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj",
         "projectName": "SearchProgamModul3.Shared",
-        "projectPath": "C:\\Users\\jacob\\source\\repos\\SearchProgamModul3\\SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj",
+        "projectPath": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\source\\repos\\SearchProgamModul3\\SearchProgamModul3\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",

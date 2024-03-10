@@ -9,3 +9,15 @@ C:\Users\jacob\source\repos\SearchProgamModul3\SearchProgamModul3\Shared\obj\Deb
 C:\Users\jacob\source\repos\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\refint\SearchProgamModul3.Shared.dll
 C:\Users\jacob\source\repos\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\SearchProgamModul3.Shared.pdb
 C:\Users\jacob\source\repos\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\ref\SearchProgamModul3.Shared.dll
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\bin\Debug\net7.0\SearchProgamModul3.Shared.deps.json
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\bin\Debug\net7.0\SearchProgamModul3.Shared.dll
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\bin\Debug\net7.0\SearchProgamModul3.Shared.pdb
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\SearchProgamModul3.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\SearchProgamModul3.Shared.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\SearchProgamModul3.Shared.AssemblyInfo.cs
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\SearchProgamModul3.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\SearchProgamModul3.Shared.sourcelink.json
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\SearchProgamModul3.Shared.dll
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\refint\SearchProgamModul3.Shared.dll
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\SearchProgamModul3.Shared.pdb
+C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\obj\Debug\net7.0\ref\SearchProgamModul3.Shared.dll

@@ -115,7 +115,7 @@ namespace SearchProgamModul3.Server.Models
 
         private string AsString(List<int> x) => $"({string.Join(',', x)})";
 
-        public Word GetWord(int id)
+        public Word GetWordById(int id)
         {
             Word word = new Word();
             var selectCmd = _connection.CreateCommand();

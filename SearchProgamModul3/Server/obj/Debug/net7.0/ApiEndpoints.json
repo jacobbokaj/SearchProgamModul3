@@ -1,8 +1,39 @@
 [
   {
     "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
+    "Method": "GetWordFreduncy",
+    "RelativePath": "Database/names",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cs",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SearchProgamModul3.Client.Search.SearchResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
     "Method": "GetAllWords",
-    "RelativePath": "Database",
+    "RelativePath": "Database/words",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -21,8 +52,8 @@
   },
   {
     "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
-    "Method": "GetWord",
-    "RelativePath": "Database/{id}",
+    "Method": "GetWordById",
+    "RelativePath": "Database/words/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -36,37 +67,6 @@
     "ReturnTypes": [
       {
         "Type": "SearchProgamModul3.Shared.Models.Word",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
-    "Method": "GetWordFreduncy",
-    "RelativePath": "Database/names",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "query",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "caseSensitiveFlag",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "SearchProgamModul3.Client.Search.SearchResult",
         "MediaTypes": [
           "text/plain",
           "application/json",

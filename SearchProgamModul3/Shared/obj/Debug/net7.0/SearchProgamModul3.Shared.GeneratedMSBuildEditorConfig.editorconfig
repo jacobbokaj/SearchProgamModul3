@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = SearchProgamModul3.Shared
-build_property.ProjectDir = C:\Users\jacob\source\repos\SearchProgamModul3\SearchProgamModul3\Shared\
+build_property.ProjectDir = C:\Users\jacob\source\repos\search-progam-modul3\SearchProgamModul3\SearchProgamModul3\Shared\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

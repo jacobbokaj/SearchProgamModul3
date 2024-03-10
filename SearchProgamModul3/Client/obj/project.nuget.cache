@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yf49VG0JiFD1BAlvZJ/IwAxcW7g1DSAcO+RfR2MYOvad2fHxYz6Dlhc8IxDGqfPPrw5yyuFElEzxjpdYqXxgsA==",
+  "dgSpecHash": "3EbOUsLS+nnw5yeXYwVkWWXyxVcdwkKKGG7jC+DNl1x1CRQo1X4DDR3ak8XRmMNY9JaIwsYu7WVy3elyXFnAPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacob\\source\\repos\\SearchProgamModul3\\SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj",
+  "projectFilePath": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.16\\microsoft.aspnetcore.authorization.7.0.16.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.16\\microsoft.aspnetcore.components.7.0.16.nupkg.sha512",

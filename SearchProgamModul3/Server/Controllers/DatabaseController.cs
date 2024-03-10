@@ -1,12 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Net;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using SearchProgamModul3.Server.Models;
-using SearchProgamModul3.Shared.Models;
-using System.Net;
 using SearchProgamModul3.Client.Search;
+using SearchProgamModul3.Server.Models;
 using SearchProgamModul3.Server.SearchMehanics;
+using SearchProgamModul3.Shared.Models;
 
 namespace SearchProgamModul3.Server.Controllers
 {
@@ -29,26 +25,36 @@ namespace SearchProgamModul3.Server.Controllers
             }
         }
 
-        [HttpGet]
+        [HttpGet("words")]
         public IEnumerable<Word> GetAllWords()
         {
             return Repository.GetAllWords();
         }
 
-        [HttpGet("{id}")]
-        public Word GetWord(int id)
+        [HttpGet("words/{id}")]
+        public Word GetWordById(int id)
         {
-            return Repository.GetWord(id);
+            return Repository.GetWordById(id);
         }
 
 
         [HttpGet("names")]
-        public SearchResult GetWordFreduncy([FromQuery] string query, [FromQuery] string caseSensitiveFlag)
+        public SearchResult? GetWordFreduncy([FromQuery] string query, [FromQuery] string cs)
         {
             SearchLogic searchLogic = new SearchLogic(Repository);
 
             string[] queryList = query.Split("_");
-            return searchLogic.Search(queryList, 10, caseSensitiveFlag == "True");
+            string csFlag = cs;
+
+            if (csFlag == "true" || csFlag == "false")
+            {
+                Console.WriteLine("Hello: " + cs);
+                return searchLogic.Search(queryList, 10, cs == "true");
+            }
+            else
+            {
+                return null;
+            }
         }
     }
 }
