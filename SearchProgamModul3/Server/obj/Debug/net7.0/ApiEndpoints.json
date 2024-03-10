@@ -1,7 +1,27 @@
 [
   {
     "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
-    "Method": "GetWordFreduncy",
+    "Method": "GetWordsFrequency",
+    "RelativePath": "Database/hotdog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[System.ValueTuple\u00602[[SearchProgamModul3.Shared.Models.Word, SearchProgamModul3.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Int32, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
+    "Method": "GetWordWithCondition",
     "RelativePath": "Database/names",
     "HttpMethod": "GET",
     "IsController": true,
@@ -21,6 +41,26 @@
     "ReturnTypes": [
       {
         "Type": "SearchProgamModul3.Client.Search.SearchResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
+    "Method": "GetWordsFy",
+    "RelativePath": "Database/sovs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.Dictionary\u00602[[SearchProgamModul3.Shared.Models.Word, SearchProgamModul3.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.Int32, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

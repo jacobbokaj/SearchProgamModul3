@@ -39,7 +39,7 @@ namespace SearchProgamModul3.Server.Controllers
 
 
         [HttpGet("names")]
-        public SearchResult? GetWordFreduncy([FromQuery] string query, [FromQuery] string cs)
+        public SearchResult? GetWordWithCondition([FromQuery] string query, [FromQuery] string cs)
         {
             SearchLogic searchLogic = new SearchLogic(Repository);
 
@@ -48,7 +48,6 @@ namespace SearchProgamModul3.Server.Controllers
 
             if (csFlag == "true" || csFlag == "false")
             {
-                Console.WriteLine("Hello: " + cs);
                 return searchLogic.Search(queryList, 10, cs == "true");
             }
             else

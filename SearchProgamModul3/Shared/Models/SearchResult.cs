@@ -1,4 +1,6 @@
-﻿namespace SearchProgamModul3.Client.Search
+﻿using SearchProgamModul3.Shared.Models.Document;
+
+namespace SearchProgamModul3.Client.Search
 {
     public class SearchResult
     {

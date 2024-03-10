@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SearchProgamModul3.Shared.Models
+namespace SearchProgamModul3.Shared.Models.Word
 {
     public class Word
     {
@@ -13,14 +13,11 @@ namespace SearchProgamModul3.Shared.Models
 
         public Word()
         {
-            
+
         }
         public Word(int id)
         {
             Id = id;
         }
-
-       
-
     }
 }
