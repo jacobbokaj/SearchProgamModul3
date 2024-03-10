@@ -19,5 +19,9 @@ namespace SearchProgamModul3.Shared.Models
         {
             Id = id;
         }
+        public Word(int id, string name) { 
+            Id = id;
+            Name = name;       
+        }
     }
 }

@@ -12,16 +12,12 @@ namespace SearchProgamModul3.Server.Controllers
     {
         private readonly IDatabaseRepository Repository = new DatabaseDBContext();
 
-
-
-        public DatabaseController(IDatabaseRepository shoppingRepository)
+        public DatabaseController(IDatabaseRepository databaseRepository)
         {
-            if (Repository == null && shoppingRepository != null)
+            if (Repository == null && databaseRepository != null)
             {
-                Repository = shoppingRepository;
+                Repository = databaseRepository;
                 Console.WriteLine("Repository initialized");
-
-
             }
         }
 
@@ -36,7 +32,6 @@ namespace SearchProgamModul3.Server.Controllers
         {
             return Repository.GetWordById(id);
         }
-
 
         [HttpGet("names")]
         public SearchResult? GetWordWithCondition([FromQuery] string query, [FromQuery] string cs)
@@ -54,6 +49,12 @@ namespace SearchProgamModul3.Server.Controllers
             {
                 return null;
             }
+        }
+
+        [HttpGet("wordsWithFrequncies")]
+        public List<WordWithFrequrency> GetWordsWithFrequncies()
+        {
+            return Repository.GetWordsFrequncies();
         }
     }
 }

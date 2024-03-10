@@ -239,5 +239,39 @@ namespace SearchProgamModul3.Server.Models
             }
             return result;
         }
+
+        public List<WordWithFrequrency> GetWordsFrequncies()
+        {
+            /*
+              SELECT w.id AS wordID, w.Name AS WordName, COUNT(o.WordId) AS Occurrences
+               FROM Word w
+               JOIN Occ o ON w.Id = o.WordId
+               GROUP BY w.Name
+               ORDER BY Occurrences DESC      
+            */
+
+
+            var sql = "SELECT w.id AS wordID, w.Name AS WordName, COUNT(o.WordId) AS Occurrences\r\n" +
+                "FROM Word w\r\n" +
+                "JOIN Occ o ON w.Id = o.WordId\r\n" +
+                "GROUP BY w.Name\r\n" +
+                "ORDER BY Occurrences DESC";
+
+            var selectCmd = _connection.CreateCommand();
+            selectCmd.CommandText = sql;
+
+            List<WordWithFrequrency> wordWithFrequrencies = new List<WordWithFrequrency>();
+
+            using (var reader = selectCmd.ExecuteReader()){
+                while (reader.Read())
+                {
+                    var wordId = reader.GetInt32(0);
+                    var wordName = reader.GetString(1);
+                    var wordFrequrency = reader.GetInt32(2);
+                    wordWithFrequrencies.Add(new WordWithFrequrency(new Word(wordId, wordName), wordFrequrency));
+                }
+            }
+            return wordWithFrequrencies;
+        }
     }
 }

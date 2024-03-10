@@ -24,5 +24,7 @@ namespace SearchProgamModul3.Server.Models
         List<string> WordsFromIds(List<int> wordIds);
 
         SearchLogic SearchLogic { get; }
+
+       List<WordWithFrequrency> GetWordsFrequncies();
     }
 }
