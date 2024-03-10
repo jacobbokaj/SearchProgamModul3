@@ -1,4 +1,6 @@
-﻿using SearchProgamModul3.Shared.Models;
+﻿
+
+using SearchProgamModul3.Shared.Models;
 
 namespace SearchProgamModul3.Client.Services
 {
