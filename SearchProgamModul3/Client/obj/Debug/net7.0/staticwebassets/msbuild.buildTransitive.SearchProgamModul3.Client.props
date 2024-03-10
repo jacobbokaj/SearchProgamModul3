@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SearchProgamModul3.Client.props" />
+</Project>

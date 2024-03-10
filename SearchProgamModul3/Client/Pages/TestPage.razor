@@ -1,0 +1,38 @@
+﻿@page "/TestPage"
+@using SearchProgamModul3.Client.Services
+@using SearchProgamModul3.Shared.Models;
+
+
+
+<h3>TestPage @if (words.Count > 0)
+    {
+        <h2>Found a ID</h2>
+       <h1>@words[0]</h1>;
+    }
+    @if (word != null)
+    {
+      
+
+
+        @foreach (var item in words)
+        {
+            <h2>@item.Id ___ @item.Name</h2>
+        }
+    }
+</h3>
+
+@code {
+    private List<Word> words = new List<Word>();
+    private Word word = new Word();
+
+    [Inject]
+    public IDatabaseService Service { get; set;}
+
+    protected override async Task OnInitializedAsync()
+    {
+        word = (await Service.GetWord(10));
+        words = (await Service.GetAllWords()).ToList();
+
+        
+    }
+}
