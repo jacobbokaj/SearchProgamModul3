@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 using SearchProgamModul3.Client.Search;
 using SearchProgamModul3.Server.Models;
 using SearchProgamModul3.Server.SearchMehanics;
@@ -7,7 +8,7 @@ using SearchProgamModul3.Shared.Models;
 namespace SearchProgamModul3.Server.Controllers
 {
     [ApiController]
-    [Route("Database")]
+    [Route("database")]
     public class DatabaseController : ControllerBase
     {
         private readonly IDatabaseRepository Repository = new DatabaseDBContext();
@@ -26,6 +27,7 @@ namespace SearchProgamModul3.Server.Controllers
         {
             return Repository.GetAllWords();
         }
+
 
         [HttpGet("words/{id}")]
         public Word GetWordById(int id)

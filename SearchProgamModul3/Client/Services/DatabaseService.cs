@@ -15,18 +15,18 @@ namespace SearchProgamModul3.Client.Services
 
         public Task<Word[]?> GetAllWords()
         {
-            var result = _httpClient.GetFromJsonAsync<Word[]>("api/Database");
+            var result = _httpClient.GetFromJsonAsync<Word[]>("database/words");
             return result;
         }
 
         public Task<BEDocument[]?> GetDocDetails(List<int> docIds)
         {
-            var result = _httpClient.GetFromJsonAsync<BEDocument[]>("api/Database");
+            var result = _httpClient.GetFromJsonAsync<BEDocument[]>("Database");
             return result;
         }
         public Task<Word?> GetWord(int id)
         {
-            var result = _httpClient.GetFromJsonAsync<Word>("api/Database/4");
+            var result = _httpClient.GetFromJsonAsync<Word>("Database/4");
             return result;
         }
 

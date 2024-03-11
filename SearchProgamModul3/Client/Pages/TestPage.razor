@@ -1,27 +1,32 @@
-﻿@page "/TestPage"
+﻿@page "/testPage"
 @using SearchProgamModul3.Shared.Models
 @using SearchProgamModul3.Client.Services
 
 
 
-<h3>TestPage @if (words.Count > 0)
-    {
-        <h2>Found a ID</h2>
-       <h1>@words[0]</h1>;
-    }
-    @if (word != null)
-    {
-      
+<h3>TestPage</h3>
+
+<form @onsubmit="Search">
+    <input type="text" @bind-value="searchTerm" />
+    <button type="submit">Search</button>
+</form>
 
 
-        @foreach (var item in words)
-        {
-            <h2>@item.Id ___ @item.Name</h2>
-        }
+@if (word.Name != string.Empty)
+{
+    <h1> word target: @word.Name</h1>
+}
+
+    @foreach (var item in words)
+    {
+        <h2>@item.Id ___ @item.Name</h2>
     }
-</h3>
+
 
 @code {
+
+    private string searchTerm;
+
     private List<Word> words = new List<Word>();
     private Word word = new Word();
 
@@ -30,9 +35,34 @@
 
     protected override async Task OnInitializedAsync()
     {
-        word = (await Service.GetWord(10));
+        //word = (await Service.GetWord(10));
         words = (await Service.GetAllWords()).ToList();
 
-        
+
+    }
+
+    private void Search()
+    {
+        // Perform your search logic here using the searchTerm
+        // For example, you might call a method on your service to retrieve the search results
+        // For now, I'll just populate 'words' with dummy data
+
+
+        foreach (var item in words)
+        {
+            if (item.Name == searchTerm)
+            {
+                word = item;
+            }
+        }
+
+
+
+        // words = new List<Word>
+        // {
+        //     new Word { Id = 1, Name = "Result 1" },
+        //     new Word { Id = 2, Name = "Result 2" }
+        //     // Add more results as needed
+        // };
     }
 }

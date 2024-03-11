@@ -2,7 +2,7 @@
   {
     "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
     "Method": "GetWordWithCondition",
-    "RelativePath": "Database/names",
+    "RelativePath": "database/names",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -33,7 +33,7 @@
   {
     "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
     "Method": "GetAllWords",
-    "RelativePath": "Database/words",
+    "RelativePath": "database/words",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -53,7 +53,7 @@
   {
     "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
     "Method": "GetWordById",
-    "RelativePath": "Database/words/{id}",
+    "RelativePath": "database/words/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -79,7 +79,7 @@
   {
     "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
     "Method": "GetWordsWithFrequncies",
-    "RelativePath": "Database/wordsWithFrequncies",
+    "RelativePath": "database/wordsWithFrequncies",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
