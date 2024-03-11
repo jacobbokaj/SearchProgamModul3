@@ -7,52 +7,12 @@
       "RelativeMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|solutionrelative:searchprogammodul3\\server\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\server\\models\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|solutionrelative:searchprogammodul3\\server\\models\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\server\\models\\idatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|solutionrelative:searchprogammodul3\\server\\models\\idatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\shared\\models\\wordmodels\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|solutionrelative:searchprogammodul3\\shared\\models\\wordmodels\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\shared\\models\\wordmodels\\wordwithfrequrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|solutionrelative:searchprogammodul3\\shared\\models\\wordmodels\\wordwithfrequrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\server\\mehanics\\searchlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|solutionrelative:searchprogammodul3\\server\\mehanics\\searchlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\shared\\models\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|solutionrelative:searchprogammodul3\\shared\\models\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|solutionrelative:searchprogammodul3\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|solutionrelative:searchprogammodul3\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\client\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|solutionrelative:searchprogammodul3\\client\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|solutionrelative:searchprogammodul3\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|solutionrelative:searchprogammodul3\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|solutionrelative:searchprogammodul3\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\server\\searchprogammodul3.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|solutionrelative:searchprogammodul3\\server\\searchprogammodul3.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\client\\pages\\search.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -63,16 +23,16 @@
       "RelativeMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|solutionrelative:searchprogammodul3\\client\\pages\\testpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\client\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|solutionrelative:searchprogammodul3\\client\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\server\\mehanics\\searchlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|solutionrelative:searchprogammodul3\\server\\mehanics\\searchlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\client\\services\\idatabaseinsertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|solutionrelative:searchprogammodul3\\client\\services\\idatabaseinsertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\shared\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|solutionrelative:searchprogammodul3\\shared\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\client\\services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BCEDD0C-EC87-4DE0-8BEF-2BFE8F1DF6AD}|SearchProgamModul3\\Client\\SearchProgamModul3.Client.csproj|solutionrelative:searchprogammodul3\\client\\services\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\server\\models\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B259EE-3722-4983-88C6-3162D5B095A2}|SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj|solutionrelative:searchprogammodul3\\server\\models\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\shared\\models\\documentmodels\\bedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,12 +47,20 @@
       "RelativeMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|solutionrelative:searchprogammodul3\\shared\\models\\documentmodels\\documenthit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\shared\\models\\wordmodels\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|solutionrelative:searchprogammodul3\\shared\\models\\wordmodels\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\shared\\models\\wordmodels\\wordwithfrequrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|solutionrelative:searchprogammodul3\\shared\\models\\wordmodels\\wordwithfrequrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\shared\\models\\occ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|solutionrelative:searchprogammodul3\\shared\\models\\occ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\shared\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|solutionrelative:searchprogammodul3\\shared\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|c:\\users\\jacob\\source\\repos\\search-progam-modul3\\searchprogammodul3\\searchprogammodul3\\shared\\models\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CB7FD0-0921-4E2C-88B2-EA8B87E86523}|SearchProgamModul3\\Shared\\SearchProgamModul3.Shared.csproj|solutionrelative:searchprogammodul3\\shared\\models\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -107,67 +75,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IDatabaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Models\\IDatabaseRepository.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Server\\Models\\IDatabaseRepository.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Models\\IDatabaseRepository.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Server\\Models\\IDatabaseRepository.cs",
+              "Title": "SearchProgamModul3.Server",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj",
+              "RelativeToolTip": "SearchProgamModul3\\Server\\SearchProgamModul3.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T08:37:43.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestPage.razor",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Pages\\TestPage.razor",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\Pages\\TestPage.razor",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Pages\\TestPage.razor",
+              "RelativeToolTip": "SearchProgamModul3\\Client\\Pages\\TestPage.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T16:47:41.096Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T07:45:10.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Program.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\Program.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Program.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Client\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T12:09:34.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Server\\Program.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Program.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T12:08:55.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DatabaseDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Models\\DatabaseDBContext.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Server\\Models\\DatabaseDBContext.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Models\\DatabaseDBContext.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Server\\Models\\DatabaseDBContext.cs",
-              "ViewState": "AQIAAOgAAAAAAAAAAAAAABEBAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:39:02.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DatabaseController.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Controllers\\DatabaseController.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Server\\Controllers\\DatabaseController.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Controllers\\DatabaseController.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Server\\Controllers\\DatabaseController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAADcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T10:45:27.124Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "Search.razor",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Pages\\Search.razor",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\Pages\\Search.razor",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Pages\\Search.razor",
+              "RelativeToolTip": "SearchProgamModul3\\Client\\Pages\\Search.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T07:45:05.791Z"
             },
             {
               "$type": "Document",
@@ -177,222 +115,39 @@
               "RelativeDocumentMoniker": "SearchProgamModul3\\Server\\Mehanics\\SearchLogic.cs",
               "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Mehanics\\SearchLogic.cs",
               "RelativeToolTip": "SearchProgamModul3\\Server\\Mehanics\\SearchLogic.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAADIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T12:06:51.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\MainLayout.razor",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\MainLayout.razor",
-              "RelativeToolTip": "SearchProgamModul3\\Client\\MainLayout.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T15:43:20.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\App.razor",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\App.razor",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\App.razor",
-              "RelativeToolTip": "SearchProgamModul3\\Client\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T15:45:43.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SearchResult.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\SearchResult.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\SearchResult.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\SearchResult.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\SearchResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T15:36:51.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T07:44:05.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WordWithFrequrency.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\WordModels\\WordWithFrequrency.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\WordModels\\WordWithFrequrency.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\WordModels\\WordWithFrequrency.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\WordModels\\WordWithFrequrency.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "DocumentIndex": 0,
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Controllers\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Server\\Controllers\\DatabaseController.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Controllers\\DatabaseController.cs",
+              "RelativeToolTip": "SearchProgamModul3\\Server\\Controllers\\DatabaseController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T15:34:10.338Z",
+              "WhenOpened": "2024-03-11T07:30:44.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\_Imports.razor",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\_Imports.razor",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\_Imports.razor",
-              "RelativeToolTip": "SearchProgamModul3\\Client\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T15:44:48.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Word.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\WordModels\\Word.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\WordModels\\Word.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\WordModels\\Word.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\WordModels\\Word.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T10:49:23.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\Pages\\Index.razor",
               "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Pages\\Index.razor",
               "RelativeToolTip": "SearchProgamModul3\\Client\\Pages\\Index.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T10:58:21.014Z",
+              "WhenOpened": "2024-03-11T07:45:08.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TestPage.razor",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Pages\\TestPage.razor",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\Pages\\TestPage.razor",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Pages\\TestPage.razor",
-              "RelativeToolTip": "SearchProgamModul3\\Client\\Pages\\TestPage.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T15:45:14.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DatabaseService.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Services\\DatabaseService.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\Services\\DatabaseService.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Services\\DatabaseService.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Client\\Services\\DatabaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:34:30.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IDatabaseInsertService.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Services\\IDatabaseInsertService.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\Services\\IDatabaseInsertService.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Services\\IDatabaseInsertService.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Client\\Services\\IDatabaseInsertService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T12:09:40.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IDatabaseService.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Services\\IDatabaseService.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\Services\\IDatabaseService.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Services\\IDatabaseService.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Client\\Services\\IDatabaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:47:12.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Search.razor",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Pages\\Search.razor",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Client\\Pages\\Search.razor",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Client\\Pages\\Search.razor",
-              "RelativeToolTip": "SearchProgamModul3\\Client\\Pages\\Search.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T11:35:01.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BEDocument.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\BEDocument.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\BEDocument.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\BEDocument.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\BEDocument.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:35:51.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Document.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\Document.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\Document.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\Document.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\Document.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:42:09.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DocumentHit.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\DocumentHit.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\DocumentHit.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\DocumentHit.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\DocumentHit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T15:36:22.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Occ.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\Occ.cs",
-              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\Occ.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\Occ.cs",
-              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\Occ.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T11:42:20.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 6,
               "Title": "Paths.cs",
               "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Paths.cs",
               "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Paths.cs",
@@ -400,7 +155,103 @@
               "RelativeToolTip": "SearchProgamModul3\\Shared\\Paths.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T12:26:31.983Z"
+              "WhenOpened": "2024-03-11T07:47:50.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Models\\DatabaseDBContext.cs",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Server\\Models\\DatabaseDBContext.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Server\\Models\\DatabaseDBContext.cs",
+              "RelativeToolTip": "SearchProgamModul3\\Server\\Models\\DatabaseDBContext.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:43:55.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BEDocument.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\BEDocument.cs",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\BEDocument.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\BEDocument.cs",
+              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\BEDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:33:54.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\Document.cs",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\Document.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\Document.cs",
+              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:33:49.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocumentHit.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\DocumentHit.cs",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\DocumentHit.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\DocumentModels\\DocumentHit.cs",
+              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\DocumentModels\\DocumentHit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:33:48.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\WordModels\\Word.cs",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\WordModels\\Word.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\WordModels\\Word.cs",
+              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\WordModels\\Word.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:33:46.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WordWithFrequrency.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\WordModels\\WordWithFrequrency.cs",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\WordModels\\WordWithFrequrency.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\WordModels\\WordWithFrequrency.cs",
+              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\WordModels\\WordWithFrequrency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:33:41.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Occ.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\Occ.cs",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\Occ.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\Occ.cs",
+              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\Occ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:33:38.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\SearchResult.cs",
+              "RelativeDocumentMoniker": "SearchProgamModul3\\Shared\\Models\\SearchResult.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\search-progam-modul3\\SearchProgamModul3\\SearchProgamModul3\\Shared\\Models\\SearchResult.cs",
+              "RelativeToolTip": "SearchProgamModul3\\Shared\\Models\\SearchResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:33:36.602Z"
             }
           ]
         }

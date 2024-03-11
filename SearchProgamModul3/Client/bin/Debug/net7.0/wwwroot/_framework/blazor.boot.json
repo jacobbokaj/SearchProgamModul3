@@ -1,7 +1,7 @@
 {
   "entryAssembly": "SearchProgamModul3.Client",
   "resources": {
-    "hash": "sha256-TnlWO1uTTa3F2ioOvVdTESrf70Z8NkfH2T2mfBChCLE=",
+    "hash": "sha256-t78LIRweYC/k2W+CuwVyU1oSZX/x5caO/S+y6QQ4ZGA=",
     "runtime": {
       "dotnet.7.0.16.cxj2o520vk.js": "sha256-4BiArKugJJtpQrznGF5zWfmJ2TB98+p6rKsyoqhtMk4=",
       "dotnet.timezones.blat": "sha256-rwyJqJu36keQwNmm/O1XV7tnkkVldIOK8GIjn4gTUt4=",
@@ -203,12 +203,12 @@
       "mscorlib.dll": "sha256-7yxnoj0sx/xIMKjSCkfYzaeQKDj1UsUSr/JXW7fRggs=",
       "netstandard.dll": "sha256-c9xgB5oQro5/rBTTHeD+4cqLi9QOB+6fhaP3jmkeGo4=",
       "System.Private.CoreLib.dll": "sha256-FGXoQzMt7mcWfUZbWXoXgg8tPIt7PF+QZoXXBQWegAQ=",
-      "SearchProgamModul3.Shared.dll": "sha256-yco8+2G18mTzobiZBo3lDsK/Ep404TQ62SsZquwdQvs=",
-      "SearchProgamModul3.Client.dll": "sha256-3d1X9xWSIVt50670N7Z92l/UaJOwPBrf/Ch/NBMmSo8="
+      "SearchProgamModul3.Shared.dll": "sha256-G3VCb7sJamteSZbrRGWlchWyaMT2SQNjoitL30/A5oU=",
+      "SearchProgamModul3.Client.dll": "sha256-MRotJh78CCPyA6bGv1nddet0j1AgAFtCB4OUc+bw/Os="
     },
     "pdb": {
-      "SearchProgamModul3.Shared.pdb": "sha256-5W7YkrqaQ9ozKcfMroBBdqhMgBVRQwTxh1/8oAxq4v4=",
-      "SearchProgamModul3.Client.pdb": "sha256-fWSR3t8WNRDXmow3SUIKrOBEnPaHwhOIT/ZO5czfsOE="
+      "SearchProgamModul3.Shared.pdb": "sha256-5WepcfUT2mrO79fAfhQNsI0MQG3DAhsSsIHyBlbpuQQ=",
+      "SearchProgamModul3.Client.pdb": "sha256-jI7GSX65VDbqdhYSLCBvTJIckMFbZhm15D0GxWUswYg="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

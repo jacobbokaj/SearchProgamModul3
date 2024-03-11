@@ -79,7 +79,7 @@
   {
     "ContainingType": "SearchProgamModul3.Server.Controllers.DatabaseController",
     "Method": "GetWordsWithFrequncies",
-    "RelativePath": "Database/wordsWithFreduncies",
+    "RelativePath": "Database/wordsWithFrequncies",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
