@@ -37,6 +37,7 @@ namespace SearchProgamModul3.Server.Controllers
         [HttpGet("names")]
         public SearchResult GetWordWithCondition([FromQuery] string query, [FromQuery] string cs)
         {
+            
             SearchLogic searchLogic = new SearchLogic(Repository);
 
             string[] queryList = query.Split("_");

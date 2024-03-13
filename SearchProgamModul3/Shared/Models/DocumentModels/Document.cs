@@ -12,5 +12,9 @@ namespace SearchProgamModul3.Shared.Models
         public string Url { get; set; } = "Default";
         public DateTime IdexTime { get; set; }
         public DateTime CreationTime { get; set; }
+        public Document()
+        {
+            
+        }
     }
 }

@@ -28,7 +28,7 @@
     private string searchTerm;
 
     private List<Word> words = new List<Word>();
- //   private SearchResult 
+    //   private SearchResult 
     private Word word = new Word();
 
     [Inject]
@@ -39,9 +39,11 @@
     protected override async Task OnInitializedAsync()
     {
         //word = (await Service.GetWord(10));
-        words = (await Service.GetAllWords()).ToList();
+       // words = (await Service.GetAllWords()).ToList();
+       // Word dataWord = (await Service.GetWord(2));
         searchResult = (await Service.GetSearchResultWithCondition("bob", false));
-        Console.WriteLine("Name: " + searchResult.Query);
+        //Console.WriteLine("dataWord: " + dataWord.Name);
+       // Console.WriteLine("Name: " + searchResult.Query);
     }
 
     private void Search()

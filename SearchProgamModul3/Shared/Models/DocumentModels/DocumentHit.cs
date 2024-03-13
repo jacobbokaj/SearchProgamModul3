@@ -8,11 +8,15 @@
             NoOfHits = noOfHits;
             Missing = missing;
         }
+        public DocumentHit()
+        {
+            
+        }
 
-        public BEDocument Document { get; }
+        public BEDocument Document { get; set; }
 
-        public int NoOfHits { get; }
+        public int NoOfHits { get; set; }
 
-        public List<string> Missing { get; }
+        public List<string> Missing { get; set; }
     }
 }

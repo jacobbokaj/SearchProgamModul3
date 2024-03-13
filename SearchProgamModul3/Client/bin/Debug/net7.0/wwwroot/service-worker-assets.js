@@ -813,25 +813,25 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-dnDR47jCFcwBadzvO68jdrSP7nIo5FYSOLQHofD+H\/o=",
+      "hash": "sha256-PxOcw5Dp3PnLyKZU5aaM3hDqSMJWtAUwZesuT1qq6Js=",
       "url": "_framework\/SearchProgamModul3.Shared.dll"
     },
     {
-      "hash": "sha256-VHRw7PJA3F4jARY5EQSSHzFm2\/XnwS0nOUhtzAIMuII=",
+      "hash": "sha256-3t1hwY2ZbGe2Dnb4tr69YLlixT5xAcTU98LsTa9EKfs=",
       "url": "_framework\/SearchProgamModul3.Shared.pdb"
     },
     {
-      "hash": "sha256-v1wmxD54qHMVVTzRz2Qjjkycz\/bXEwm6LnVhjV1UdSo=",
+      "hash": "sha256-sJdJljXCUXSwN22vJiqJ5laRd7OnYd70IKOmxoJpDvo=",
       "url": "_framework\/SearchProgamModul3.Client.dll"
     },
     {
-      "hash": "sha256-C8lbgvdRutxUAWtMIVS+B1zI\/a0RBSYMKFoE9IP\/1Us=",
+      "hash": "sha256-lZaF4LGezH99Y1eL0hiWIivae7wfONv4nBf4KHUr2XI=",
       "url": "_framework\/SearchProgamModul3.Client.pdb"
     },
     {
-      "hash": "sha256-6IPc5Yyspfpvi9DNxmrWP5+mgzjMnaJSyCwuaTMWQXc=",
+      "hash": "sha256-oFraapkZygr3bWT0fR5mqDV3\/Z2E9VsCJVDsHrw57ck=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "lXWAHZxr"
+  "version": "VHd2bPD6"
 };

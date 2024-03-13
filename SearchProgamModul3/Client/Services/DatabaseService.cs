@@ -26,7 +26,7 @@ namespace SearchProgamModul3.Client.Services
         }
         public Task<Word?> GetWord(int id)
         {
-            var result = _httpClient.GetFromJsonAsync<Word>("database/4");
+            var result = _httpClient.GetFromJsonAsync<Word>($"database/words/{id}");
             return result;
         }
 
@@ -56,6 +56,7 @@ namespace SearchProgamModul3.Client.Services
             string caseString = caseSensitiveFlag ? "true" : "false";
             string input = $"database/names?query={names}&cs={caseString}";
             var result = _httpClient.GetFromJsonAsync<SearchResult>(input);
+           
             return result;
         }
     }
