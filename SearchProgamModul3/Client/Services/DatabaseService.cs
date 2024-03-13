@@ -51,10 +51,11 @@ namespace SearchProgamModul3.Client.Services
             throw new NotImplementedException();
         }
 
-        public Task<SearchResult?> GetSearchResultWithCondition(string names, bool caseSensitiveFlag)
+        public Task<SearchResult?> GetSearchResultWithCondition(string query, bool cs)
         {
-            string caseString = caseSensitiveFlag ? "true" : "false";
-            string input = $"database/names?query={names}&cs={caseString}";
+            string caseString = cs ? "true" : "false";
+            query = query.Replace(",","_");
+            string input = $"database/names?query={query}&cs={caseString}";
             var result = _httpClient.GetFromJsonAsync<SearchResult>(input);
            
             return result;
