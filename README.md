@@ -3,12 +3,12 @@ SOVS I KASKETTEN LIGE I RUMPÆTTEN
 #### Get words
 
 ```http
-  GET /Database/words
+  GET /database/words
 ```
 #### Get word by id
 
 ```http
-  GET Database/words/${id}
+  GET database/words/${id}
 ```
 
 | Parameter | Type     | Description                       |
@@ -19,7 +19,7 @@ SOVS I KASKETTEN LIGE I RUMPÆTTEN
 #### Get word by name and caseSensitive
 
 ```http
-  GET /Database/names?query=names&cs=bool
+  GET /database/names?query=names&cs=bool
 ```
 
 | Parameter | Type     | Description                              |
