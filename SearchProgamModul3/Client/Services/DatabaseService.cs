@@ -1,5 +1,4 @@
-﻿using SearchProgamModul3.Client.Search;
-using SearchProgamModul3.Shared.Models;
+﻿using SearchProgamModul3.Shared.Models;
 using System.Net.Http.Json;
 
 namespace SearchProgamModul3.Client.Services
