@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SearchProgamModul3.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68d02b4455b09a3af4a482372ca7a0026707fe72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a14ef3032b66a615979d4ed8de7e1a52570fc85a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SearchProgamModul3.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SearchProgamModul3.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

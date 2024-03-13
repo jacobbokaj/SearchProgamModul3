@@ -1,6 +1,6 @@
+using Microsoft.AspNetCore.Mvc.TagHelpers;
 using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.Extensions.Options;
-using SearchProgamModul3.Client.Services;
 using SearchProgamModul3.Server.Models;
 using System.Xml.Linq;
 
@@ -32,7 +32,6 @@ else
     app.UseHsts();
 }
 // ...
-
 
 app.UseHttpsRedirection();
 app.UseBlazorFrameworkFiles();
