@@ -1,4 +1,5 @@
-﻿using SearchProgamModul3.Shared.Models;
+﻿using SearchProgamModul3.Client.Search;
+using SearchProgamModul3.Shared.Models;
 using System.Net.Http.Json;
 
 namespace SearchProgamModul3.Client.Services
@@ -21,12 +22,12 @@ namespace SearchProgamModul3.Client.Services
 
         public Task<BEDocument[]?> GetDocDetails(List<int> docIds)
         {
-            var result = _httpClient.GetFromJsonAsync<BEDocument[]>("Database");
+            var result = _httpClient.GetFromJsonAsync<BEDocument[]>("database");
             return result;
         }
         public Task<Word?> GetWord(int id)
         {
-            var result = _httpClient.GetFromJsonAsync<Word>("Database/4");
+            var result = _httpClient.GetFromJsonAsync<Word>("database/4");
             return result;
         }
 
@@ -49,6 +50,12 @@ namespace SearchProgamModul3.Client.Services
         public Task<string[]?> WordsFromIds(List<int> wordIds)
         {
             throw new NotImplementedException();
+        }
+
+        public Task<SearchResult?> GetSearchResultWithCondition(string names, bool caseSensitiveFlag)
+        {
+            var result = _httpClient.GetFromJsonAsync<SearchResult>($"database/names?query={names}&cs={caseSensitiveFlag}");
+            return result;
         }
     }
 }

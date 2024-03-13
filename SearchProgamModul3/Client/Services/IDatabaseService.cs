@@ -1,5 +1,6 @@
 ﻿
 
+using SearchProgamModul3.Client.Search;
 using SearchProgamModul3.Shared.Models;
 
 namespace SearchProgamModul3.Client.Services
@@ -14,5 +15,7 @@ namespace SearchProgamModul3.Client.Services
         Task<Word[]?> GetAllWords();
 
         Task<Word?> GetWord(int id);
+
+        Task<SearchResult?> GetSearchResultWithCondition(string query, bool caseSensitiveFlag);
     }
 }

@@ -821,17 +821,17 @@
       "url": "_framework\/SearchProgamModul3.Shared.pdb"
     },
     {
-      "hash": "sha256-3Rl6wUDJScZGY8iPybadImUgHWFgH7j+b54jRiBdpC4=",
+      "hash": "sha256-kJCjhcTA\/ufwPXs6rI3FwBfW0CQirvlt2dx5wN6zRiE=",
       "url": "_framework\/SearchProgamModul3.Client.dll"
     },
     {
-      "hash": "sha256-+q6U0OmVMqh1sBoOgVw2xRg29di\/8+xmdZYkXCgDnIo=",
+      "hash": "sha256-S+AB7V\/oTb6IGu+oBCdMSzKFlHpZrvkUGdQUjxCT6ho=",
       "url": "_framework\/SearchProgamModul3.Client.pdb"
     },
     {
-      "hash": "sha256-2UgVIDfPmmtq\/5qhnLdL7kyXlP2hdRPDgPrWxJkQxp0=",
+      "hash": "sha256-R2jayzKgZl1U+IA9SJbq6FvQLR5pTPOsXOxAxQBYmL0=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "mq\/u\/f0U"
+  "version": "VQGFw2Nt"
 };
