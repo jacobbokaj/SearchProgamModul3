@@ -53,7 +53,9 @@ namespace SearchProgamModul3.Client.Services
 
         public Task<SearchResult?> GetSearchResultWithCondition(string names, bool caseSensitiveFlag)
         {
-            var result = _httpClient.GetFromJsonAsync<SearchResult>($"database/names?query={names}&cs={caseSensitiveFlag}");
+            string caseString = caseSensitiveFlag ? "true" : "false";
+            string input = $"database/names?query={names}&cs={caseString}";
+            var result = _httpClient.GetFromJsonAsync<SearchResult>(input);
             return result;
         }
     }

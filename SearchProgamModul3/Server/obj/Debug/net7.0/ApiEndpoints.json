@@ -20,7 +20,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "SearchProgamModul3.Client.Search.SearchResult",
+        "Type": "SearchProgamModul3.Shared.Models.SearchResult",
         "MediaTypes": [
           "text/plain",
           "application/json",

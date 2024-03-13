@@ -35,7 +35,7 @@ namespace SearchProgamModul3.Server.Controllers
         }
 
         [HttpGet("names")]
-        public SearchResult? GetWordWithCondition([FromQuery] string query, [FromQuery] string cs)
+        public SearchResult GetWordWithCondition([FromQuery] string query, [FromQuery] string cs)
         {
             SearchLogic searchLogic = new SearchLogic(Repository);
 
@@ -48,7 +48,7 @@ namespace SearchProgamModul3.Server.Controllers
             }
             else
             {
-                return null;
+                return new SearchResult();
             }
         }
 

@@ -34,12 +34,14 @@
     [Inject]
     public IDatabaseService Service { get; set;}
 
+    private SearchResult searchResult = new SearchResult();
+
     protected override async Task OnInitializedAsync()
     {
         //word = (await Service.GetWord(10));
         words = (await Service.GetAllWords()).ToList();
-
-
+        searchResult = (await Service.GetSearchResultWithCondition("bob", false));
+        Console.WriteLine("Name: " + searchResult.Query);
     }
 
     private void Search()
